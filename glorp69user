@@ -4,7 +4,7 @@
  "nombre": "Samir",
  "apellido": "Guerrero",
  "direccion": "Inacap",
- "fono": +56920077572,
+ "fono": 56920077572,
  "correo":"samir.guerrero@inacapmail.cl",
  "montoCredito": 505050,
  "deuda":0,
